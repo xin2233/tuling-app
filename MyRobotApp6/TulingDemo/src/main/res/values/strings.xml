@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">app机器人</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="send">发送</string>
+    
+    <string-array name="welcome_tips">
+        <item>你好，先生，你有什么问题</item>
+        <item>陌生人，你好啊</item>
+        <item>你又来问问题吗</item>
+        <item>同学，我有什么可以帮助你的吗</item>
+        <item>我是app机器人，很高兴为您服务</item>
+    </string-array>
+
+</resources>

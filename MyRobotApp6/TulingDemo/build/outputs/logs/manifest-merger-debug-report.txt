@@ -1,0 +1,265 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:2:1-49:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\7e27c7d396810af644fcc2d5ec8384aa\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:uidialog] E:\AndroidApp\MyRobotApp3\uidialog\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-26:12
+MERGED from [:core] E:\AndroidApp\MyRobotApp3\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-32:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\92a82d0e6836fc2764f8a4c5ae17cc0a\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\0d47a0d6fa5764cd649078b15eaac482\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\560559a1d2f072346120a8facd149d09\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\9cfddc7e36e5933ee2ea725c9bea78af\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\e40a377249758d23414d21222f000040\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\3dd2a90cf4903229672e8d620934c6ca\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\d1290085211f6ca31e4b44ad501b0e7c\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\b685d122498cf50e728d648d063a2ff6\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\0d46da4f5ac771dd79c1a2c9880b8580\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\369c371dbc36cd3420e0891af4dc30b8\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\97f01785cab2549e8be5ef5c8b1dbcb3\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\3584c755b13ff246a30ea06b73bd9d78\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\fee859eac2601f0c53561481b8362e20\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\2d0e89544ecc30a9184b81b65acf458e\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\5c5ff6a9e23a514d622ec485c5d31c27\vectordrawable-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\032360533aed7f4773dde0d69318c0bd\core-1.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\a3551ab13be12ed63d05f9b0aaa8242a\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\4b326e320f7fb8e89e2bb3879ac950d2\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\ba74e7a1df14494ca70ea72adf4fc3bf\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\5d6ed104b1267309eec087762b08ed9e\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\000772770b31839da1ff8a942bf73abb\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\706aa5d8c8a43873cd63a96842e3a9e8\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\d00c90699ae27cc1e1ce5e4b3e530617\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\13ac386f95e101744ae5f7d486caaa8c\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:9:5-71
+MERGED from [:core] E:\AndroidApp\MyRobotApp3\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-71
+MERGED from [:core] E:\AndroidApp\MyRobotApp3\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:9:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:10:5-79
+MERGED from [:core] E:\AndroidApp\MyRobotApp3\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-79
+MERGED from [:core] E:\AndroidApp\MyRobotApp3\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:11:5-67
+MERGED from [:core] E:\AndroidApp\MyRobotApp3\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [:core] E:\AndroidApp\MyRobotApp3\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:12:5-81
+MERGED from [:core] E:\AndroidApp\MyRobotApp3\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-81
+MERGED from [:core] E:\AndroidApp\MyRobotApp3\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:15:5-75
+MERGED from [:core] E:\AndroidApp\MyRobotApp3\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-75
+MERGED from [:core] E:\AndroidApp\MyRobotApp3\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:15:22-72
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:16:5-68
+MERGED from [:core] E:\AndroidApp\MyRobotApp3\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-68
+MERGED from [:core] E:\AndroidApp\MyRobotApp3\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:16:22-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:17:5-80
+MERGED from [:core] E:\AndroidApp\MyRobotApp3\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-80
+MERGED from [:core] E:\AndroidApp\MyRobotApp3\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:17:22-77
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:18:5-74
+MERGED from [:core] E:\AndroidApp\MyRobotApp3\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-74
+MERGED from [:core] E:\AndroidApp\MyRobotApp3\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-74
+	android:name
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:18:22-71
+application
+ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:20:5-47:19
+MERGED from [:uidialog] E:\AndroidApp\MyRobotApp3\uidialog\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-24:19
+MERGED from [:uidialog] E:\AndroidApp\MyRobotApp3\uidialog\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-24:19
+MERGED from [:core] E:\AndroidApp\MyRobotApp3\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-30:19
+MERGED from [:core] E:\AndroidApp\MyRobotApp3\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-30:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\032360533aed7f4773dde0d69318c0bd\core-1.0.1\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\032360533aed7f4773dde0d69318c0bd\core-1.0.1\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\a3551ab13be12ed63d05f9b0aaa8242a\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\a3551ab13be12ed63d05f9b0aaa8242a\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\032360533aed7f4773dde0d69318c0bd\core-1.0.1\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:22:9-45
+	android:allowBackup
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:24:9-40
+	android:usesCleartextTraffic
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:25:9-44
+uses-library#org.apache.http.legacy
+ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:27:9-88
+	android:required
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:27:61-85
+	android:name
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:27:23-60
+activity#com.zjxwwwrobot.robotapp.MainActivity
+ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:28:9-36:20
+	android:label
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:29:13-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:34:27-74
+meta-data#com.baidu.speech.APP_ID
+ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:37:9-39:39
+MERGED from [:core] E:\AndroidApp\MyRobotApp3\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:9-23:40
+MERGED from [:core] E:\AndroidApp\MyRobotApp3\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:9-23:40
+	android:value
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:38:13-51
+meta-data#com.baidu.speech.API_KEY
+ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:41:9-43:55
+MERGED from [:core] E:\AndroidApp\MyRobotApp3\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:9-26:56
+MERGED from [:core] E:\AndroidApp\MyRobotApp3\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:9-26:56
+	android:value
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:43:13-53
+	android:name
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:42:13-52
+meta-data#com.baidu.speech.SECRET_KEY
+ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:44:9-46:63
+MERGED from [:core] E:\AndroidApp\MyRobotApp3\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:9-29:64
+MERGED from [:core] E:\AndroidApp\MyRobotApp3\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:9-29:64
+	android:value
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:46:13-61
+	android:name
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:45:13-55
+uses-sdk
+INJECTED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\7e27c7d396810af644fcc2d5ec8384aa\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\7e27c7d396810af644fcc2d5ec8384aa\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:uidialog] E:\AndroidApp\MyRobotApp3\uidialog\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:uidialog] E:\AndroidApp\MyRobotApp3\uidialog\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:core] E:\AndroidApp\MyRobotApp3\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:core] E:\AndroidApp\MyRobotApp3\core\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\92a82d0e6836fc2764f8a4c5ae17cc0a\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\92a82d0e6836fc2764f8a4c5ae17cc0a\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\0d47a0d6fa5764cd649078b15eaac482\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\0d47a0d6fa5764cd649078b15eaac482\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\560559a1d2f072346120a8facd149d09\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\560559a1d2f072346120a8facd149d09\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\9cfddc7e36e5933ee2ea725c9bea78af\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\9cfddc7e36e5933ee2ea725c9bea78af\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\e40a377249758d23414d21222f000040\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\e40a377249758d23414d21222f000040\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\3dd2a90cf4903229672e8d620934c6ca\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\3dd2a90cf4903229672e8d620934c6ca\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\d1290085211f6ca31e4b44ad501b0e7c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\d1290085211f6ca31e4b44ad501b0e7c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\b685d122498cf50e728d648d063a2ff6\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\b685d122498cf50e728d648d063a2ff6\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\0d46da4f5ac771dd79c1a2c9880b8580\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\0d46da4f5ac771dd79c1a2c9880b8580\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\369c371dbc36cd3420e0891af4dc30b8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\369c371dbc36cd3420e0891af4dc30b8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\97f01785cab2549e8be5ef5c8b1dbcb3\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\97f01785cab2549e8be5ef5c8b1dbcb3\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\3584c755b13ff246a30ea06b73bd9d78\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\3584c755b13ff246a30ea06b73bd9d78\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\fee859eac2601f0c53561481b8362e20\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\fee859eac2601f0c53561481b8362e20\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\2d0e89544ecc30a9184b81b65acf458e\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\2d0e89544ecc30a9184b81b65acf458e\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\5c5ff6a9e23a514d622ec485c5d31c27\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\5c5ff6a9e23a514d622ec485c5d31c27\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\032360533aed7f4773dde0d69318c0bd\core-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\032360533aed7f4773dde0d69318c0bd\core-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\a3551ab13be12ed63d05f9b0aaa8242a\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\a3551ab13be12ed63d05f9b0aaa8242a\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\4b326e320f7fb8e89e2bb3879ac950d2\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\4b326e320f7fb8e89e2bb3879ac950d2\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\ba74e7a1df14494ca70ea72adf4fc3bf\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\ba74e7a1df14494ca70ea72adf4fc3bf\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\5d6ed104b1267309eec087762b08ed9e\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\5d6ed104b1267309eec087762b08ed9e\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\000772770b31839da1ff8a942bf73abb\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\000772770b31839da1ff8a942bf73abb\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\706aa5d8c8a43873cd63a96842e3a9e8\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\706aa5d8c8a43873cd63a96842e3a9e8\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\d00c90699ae27cc1e1ce5e4b3e530617\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\d00c90699ae27cc1e1ce5e4b3e530617\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\13ac386f95e101744ae5f7d486caaa8c\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\13ac386f95e101744ae5f7d486caaa8c\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml
+activity#com.baidu.voicerecognition.android.ui.BaiduASRDigitalDialog
+ADDED from [:uidialog] E:\AndroidApp\MyRobotApp3\uidialog\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-23:20
+	android:screenOrientation
+		ADDED from [:uidialog] E:\AndroidApp\MyRobotApp3\uidialog\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-49
+	android:exported
+		ADDED from [:uidialog] E:\AndroidApp\MyRobotApp3\uidialog\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+	android:configChanges
+		ADDED from [:uidialog] E:\AndroidApp\MyRobotApp3\uidialog\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-76
+	android:theme
+		ADDED from [:uidialog] E:\AndroidApp\MyRobotApp3\uidialog\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-56
+	android:name
+		ADDED from [:uidialog] E:\AndroidApp\MyRobotApp3\uidialog\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-87
+intent-filter#action:name:com.baidu.action.RECOGNIZE_SPEECH+category:name:android.intent.category.DEFAULT
+ADDED from [:uidialog] E:\AndroidApp\MyRobotApp3\uidialog\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-22:29
+action#com.baidu.action.RECOGNIZE_SPEECH
+ADDED from [:uidialog] E:\AndroidApp\MyRobotApp3\uidialog\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from [:uidialog] E:\AndroidApp\MyRobotApp3\uidialog\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:25-73
+category#android.intent.category.DEFAULT
+ADDED from [:uidialog] E:\AndroidApp\MyRobotApp3\uidialog\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:17-76
+	android:name
+		ADDED from [:uidialog] E:\AndroidApp\MyRobotApp3\uidialog\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:27-73

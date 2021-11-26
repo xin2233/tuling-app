@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyRobotApp3.iml" filepath="$PROJECT_DIR$/MyRobotApp3.iml" group="MyRobotApp3" />
+      <module fileurl="file://$PROJECT_DIR$/TulingDemo/TulingDemo.iml" filepath="$PROJECT_DIR$/TulingDemo/TulingDemo.iml" group="MyRobotApp3/TulingDemo" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" group="MyRobotApp3/core" />
+      <module fileurl="file://$PROJECT_DIR$/uidialog/uidialog.iml" filepath="$PROJECT_DIR$/uidialog/uidialog.iml" group="MyRobotApp3/uidialog" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.zjxwwwrobot.robotapp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <!-- 蓝牙录音使用，不需要可以去除 -->
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <!--android 9.0 找不到httpclient类-->
+        <uses-library android:name="org.apache.http.legacy" android:required="false" />
+        <activity
+            android:name="com.zjxwwwrobot.robotapp.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <meta-data
+            android:name="com.baidu.speech.APP_ID"
+            android:value="15590577"/>
+
+        <meta-data
+            android:name="com.baidu.speech.API_KEY"
+            android:value="q2uPyBe6LmWTZlvb0g1dzcHV"/>
+        <meta-data
+            android:name="com.baidu.speech.SECRET_KEY"
+            android:value="y7S7hAI894BB3LF1yHYmvQEus1B6wPvj"/>
+    </application>
+
+</manifest>

@@ -1,0 +1,127 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.baidu.speech.recognizerdemo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+11-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:9:5-71
+11-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:9:22-68
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:10:5-79
+12-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:10:22-76
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:11:5-67
+13-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:11:22-64
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:12:5-81
+14-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:12:22-78
+15
+16    <!-- 蓝牙录音使用，不需要可以去除 -->
+17    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+17-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:15:5-75
+17-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:15:22-72
+18    <uses-permission android:name="android.permission.BLUETOOTH" />
+18-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:16:5-68
+18-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:16:22-65
+19    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+19-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:17:5-80
+19-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:17:22-77
+20    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+20-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:18:5-74
+20-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:18:22-71
+21
+22    <application
+22-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:20:5-47:19
+23        android:allowBackup="true"
+23-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:21:9-35
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.0.1] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\032360533aed7f4773dde0d69318c0bd\core-1.0.1\AndroidManifest.xml:22:18-86
+25        android:debuggable="true"
+26        android:icon="@drawable/ic_launcher"
+26-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:22:9-45
+27        android:label="@string/app_name"
+27-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:23:9-41
+28        android:testOnly="true"
+29        android:theme="@style/AppTheme"
+29-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:24:9-40
+30        android:usesCleartextTraffic="true" >
+30-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:25:9-44
+31
+32        <!-- android 9.0 找不到httpclient类 -->
+33        <uses-library
+33-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:27:9-88
+34            android:name="org.apache.http.legacy"
+34-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:27:23-60
+35            android:required="false" />
+35-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:27:61-85
+36
+37        <activity
+37-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:28:9-36:20
+38            android:name="com.zjxwwwrobot.robotapp.MainActivity"
+38-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:29:13-65
+39            android:label="@string/app_name" >
+39-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:30:13-45
+40            <intent-filter>
+40-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:31:13-35:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:32:17-69
+41-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:32:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:34:17-77
+43-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:34:27-74
+44            </intent-filter>
+45        </activity>
+46
+47        <meta-data
+47-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:37:9-39:39
+48            android:name="com.baidu.speech.APP_ID"
+48-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:38:13-51
+49            android:value="15590577" />
+49-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:39:13-37
+50        <meta-data
+50-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:41:9-43:55
+51            android:name="com.baidu.speech.API_KEY"
+51-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:42:13-52
+52            android:value="q2uPyBe6LmWTZlvb0g1dzcHV" />
+52-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:43:13-53
+53        <meta-data
+53-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:44:9-46:63
+54            android:name="com.baidu.speech.SECRET_KEY"
+54-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:45:13-55
+55            android:value="y7S7hAI894BB3LF1yHYmvQEus1B6wPvj" />
+55-->E:\AndroidApp\MyRobotApp3\TulingDemo\src\main\AndroidManifest.xml:46:13-61
+56
+57        <activity
+57-->[:uidialog] E:\AndroidApp\MyRobotApp3\uidialog\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-23:20
+58            android:name="com.baidu.voicerecognition.android.ui.BaiduASRDigitalDialog"
+58-->[:uidialog] E:\AndroidApp\MyRobotApp3\uidialog\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-87
+59            android:configChanges="orientation|keyboardHidden|screenLayout"
+59-->[:uidialog] E:\AndroidApp\MyRobotApp3\uidialog\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-76
+60            android:exported="false"
+60-->[:uidialog] E:\AndroidApp\MyRobotApp3\uidialog\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+61            android:screenOrientation="portrait"
+61-->[:uidialog] E:\AndroidApp\MyRobotApp3\uidialog\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-49
+62            android:theme="@android:style/Theme.Dialog" >
+62-->[:uidialog] E:\AndroidApp\MyRobotApp3\uidialog\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-56
+63            <intent-filter>
+63-->[:uidialog] E:\AndroidApp\MyRobotApp3\uidialog\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-22:29
+64                <action android:name="com.baidu.action.RECOGNIZE_SPEECH" />
+64-->[:uidialog] E:\AndroidApp\MyRobotApp3\uidialog\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-76
+64-->[:uidialog] E:\AndroidApp\MyRobotApp3\uidialog\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:25-73
+65
+66                <category android:name="android.intent.category.DEFAULT" />
+66-->[:uidialog] E:\AndroidApp\MyRobotApp3\uidialog\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:17-76
+66-->[:uidialog] E:\AndroidApp\MyRobotApp3\uidialog\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:27-73
+67            </intent-filter>
+68        </activity>
+69    </application>
+70
+71</manifest>

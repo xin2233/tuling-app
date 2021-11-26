@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\a58e63745053b99af3a0d4e47c925301\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\5484cf02dda31b27fddb3d218cdb7759\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\7e93fda50bb462e79383a8e2569930dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\574833093fa7e68e1c2f9822899a2b4f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\dc6bff6afcb456cfb0b87c3df6336d4c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\a8a6f5934937630fd2945f99e4779f07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\d93e0dbd4252b0807cd540708b4f6077\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\ab41cab867fc761a7364ca2e903cbb64\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\3e42f035e55c956835f3c01abd9f18ed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\10698d542bdc104cad5207207d6f07b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\1a657d035f64378af961ed3f11434bf3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\385f5351d85b26404967987d5e3d7777\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\9a0369075ce30f8732171775f2626dad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\1ba0c5a58f573e43004f567d46b5ab79\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\9da7c940089c9fc6360fa63bfa0ed2ab\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\944988cf809fdd0e2c556a539fc2f4d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\ccd433f4173bf48e66f504f6c003ed86\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\908d9f8f14507f050dd156e7ee0285a4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\f41eccc1f037f199e73e94a75dc805c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\7ab898bc9e97a41634dd386d05429ba9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\0c18c69cf6df0f7ca681357ec865d867\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\ebca6138f2d1f683d022c6ef0533e4ad\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\6547bb75021331a2990266489c0eefb1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\7d6703b57c0bd530b7cd781c2cc604ef\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\52f88e63444bad56a6c2aca0dc1ed21b\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:10:5-27:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\1ba0c5a58f573e43004f567d46b5ab79\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\1ba0c5a58f573e43004f567d46b5ab79\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\9da7c940089c9fc6360fa63bfa0ed2ab\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\9da7c940089c9fc6360fa63bfa0ed2ab\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\1ba0c5a58f573e43004f567d46b5ab79\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:12:9-45
+	android:allowBackup
+		ADDED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:14:9-40
+	android:usesCleartextTraffic
+		ADDED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:15:9-44
+uses-library#org.apache.http.legacy
+ADDED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:17:9-88
+	android:required
+		ADDED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:17:61-85
+	android:name
+		ADDED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:17:23-60
+activity#com.jikexueyuan.tulingdemo.MainActivity
+ADDED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\a58e63745053b99af3a0d4e47c925301\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\a58e63745053b99af3a0d4e47c925301\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\5484cf02dda31b27fddb3d218cdb7759\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\5484cf02dda31b27fddb3d218cdb7759\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\7e93fda50bb462e79383a8e2569930dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\7e93fda50bb462e79383a8e2569930dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\574833093fa7e68e1c2f9822899a2b4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\574833093fa7e68e1c2f9822899a2b4f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\dc6bff6afcb456cfb0b87c3df6336d4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\dc6bff6afcb456cfb0b87c3df6336d4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\a8a6f5934937630fd2945f99e4779f07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\a8a6f5934937630fd2945f99e4779f07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\d93e0dbd4252b0807cd540708b4f6077\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\d93e0dbd4252b0807cd540708b4f6077\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\ab41cab867fc761a7364ca2e903cbb64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\ab41cab867fc761a7364ca2e903cbb64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\3e42f035e55c956835f3c01abd9f18ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\3e42f035e55c956835f3c01abd9f18ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\10698d542bdc104cad5207207d6f07b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\10698d542bdc104cad5207207d6f07b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\1a657d035f64378af961ed3f11434bf3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\1a657d035f64378af961ed3f11434bf3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\385f5351d85b26404967987d5e3d7777\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\385f5351d85b26404967987d5e3d7777\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\9a0369075ce30f8732171775f2626dad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\9a0369075ce30f8732171775f2626dad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\1ba0c5a58f573e43004f567d46b5ab79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\1ba0c5a58f573e43004f567d46b5ab79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\9da7c940089c9fc6360fa63bfa0ed2ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\9da7c940089c9fc6360fa63bfa0ed2ab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\944988cf809fdd0e2c556a539fc2f4d2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\944988cf809fdd0e2c556a539fc2f4d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\ccd433f4173bf48e66f504f6c003ed86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\ccd433f4173bf48e66f504f6c003ed86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\908d9f8f14507f050dd156e7ee0285a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\908d9f8f14507f050dd156e7ee0285a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\f41eccc1f037f199e73e94a75dc805c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\f41eccc1f037f199e73e94a75dc805c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\7ab898bc9e97a41634dd386d05429ba9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\7ab898bc9e97a41634dd386d05429ba9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\0c18c69cf6df0f7ca681357ec865d867\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\0c18c69cf6df0f7ca681357ec865d867\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\ebca6138f2d1f683d022c6ef0533e4ad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\ebca6138f2d1f683d022c6ef0533e4ad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\6547bb75021331a2990266489c0eefb1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\6547bb75021331a2990266489c0eefb1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\7d6703b57c0bd530b7cd781c2cc604ef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\7d6703b57c0bd530b7cd781c2cc604ef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\52f88e63444bad56a6c2aca0dc1ed21b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\简简单单\.gradle\caches\transforms-2\files-2.1\52f88e63444bad56a6c2aca0dc1ed21b\AndroidManifest.xml:20:5-44
+INJECTED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml
+INJECTED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml
+		ADDED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidApp\TulingDemo1\TulingDemo\src\main\AndroidManifest.xml

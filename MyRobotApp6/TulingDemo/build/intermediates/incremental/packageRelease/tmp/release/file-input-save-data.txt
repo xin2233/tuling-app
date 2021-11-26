@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu May 14 22:34:47 CST 2020
+0.baseType=DIRECTORY
+0.base=E\:\\AndroidApp\\TulingDemo1\\TulingDemo\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+0.path=classes.dex
+0.set=DEX
+count=1

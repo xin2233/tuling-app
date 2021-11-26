@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\AndroidApp\\MyRobotApp3\\TulingDemo\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\AndroidApp\\MyRobotApp3\\TulingDemo\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidApp\\MyRobotApp3\\TulingDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_visitor.jpg.flat",
+        "source": "E:\\AndroidApp\\MyRobotApp3\\TulingDemo\\src\\main\\res\\drawable-hdpi\\visitor.jpg"
+    },
+    {
+        "merged": "E:\\AndroidApp\\MyRobotApp3\\TulingDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_visitor1.jpg.flat",
+        "source": "E:\\AndroidApp\\MyRobotApp3\\TulingDemo\\src\\main\\res\\drawable-hdpi\\visitor1.jpg"
+    },
+    {
+        "merged": "E:\\AndroidApp\\MyRobotApp3\\TulingDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_aio_friend_bg_nor_11.9.png.flat",
+        "source": "E:\\AndroidApp\\MyRobotApp3\\TulingDemo\\src\\main\\res\\drawable-hdpi\\aio_friend_bg_nor_11.9.png"
+    },
+    {
+        "merged": "E:\\AndroidApp\\MyRobotApp3\\TulingDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidApp\\MyRobotApp3\\TulingDemo\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidApp\\MyRobotApp3\\TulingDemo\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "E:\\AndroidApp\\MyRobotApp3\\TulingDemo\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\AndroidApp\\MyRobotApp3\\TulingDemo\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidApp\\MyRobotApp3\\TulingDemo\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidApp\\MyRobotApp3\\TulingDemo\\build\\intermediates\\res\\merged\\debug\\layout_rightitem.xml.flat",
+        "source": "E:\\AndroidApp\\MyRobotApp3\\TulingDemo\\src\\main\\res\\layout\\rightitem.xml"
+    },
+    {
+        "merged": "E:\\AndroidApp\\MyRobotApp3\\TulingDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidApp\\MyRobotApp3\\TulingDemo\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidApp\\MyRobotApp3\\TulingDemo\\build\\intermediates\\res\\merged\\debug\\layout_leftitem.xml.flat",
+        "source": "E:\\AndroidApp\\MyRobotApp3\\TulingDemo\\src\\main\\res\\layout\\leftitem.xml"
+    },
+    {
+        "merged": "E:\\AndroidApp\\MyRobotApp3\\TulingDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_aio_user_bg_nor_11.9.png.flat",
+        "source": "E:\\AndroidApp\\MyRobotApp3\\TulingDemo\\src\\main\\res\\drawable-hdpi\\aio_user_bg_nor_11.9.png"
+    },
+    {
+        "merged": "E:\\AndroidApp\\MyRobotApp3\\TulingDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_robot.jpg.flat",
+        "source": "E:\\AndroidApp\\MyRobotApp3\\TulingDemo\\src\\main\\res\\drawable-hdpi\\robot.jpg"
+    },
+    {
+        "merged": "E:\\AndroidApp\\MyRobotApp3\\TulingDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\AndroidApp\\MyRobotApp3\\TulingDemo\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidApp\\MyRobotApp3\\TulingDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_robot1.jpg.flat",
+        "source": "E:\\AndroidApp\\MyRobotApp3\\TulingDemo\\src\\main\\res\\drawable-hdpi\\robot1.jpg"
+    }
+]
